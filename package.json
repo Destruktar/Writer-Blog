@@ -1,0 +1,30 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Blog Sencillo escalable, primer proyecto backend",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blog",
+    "HTML",
+    "CSS",
+    "SASS",
+    "JavaScript",
+    "C#",
+    "bakcend",
+    "frontend",
+    "database"
+  ],
+  "author": "Damian Arrieta",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-sass": "^6.0.0",
+    "sass": "^1.83.4"
+  }
+}
