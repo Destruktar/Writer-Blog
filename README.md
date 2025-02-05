@@ -11,5 +11,5 @@ Esto es una practica que me permitirá reafirmar conocimientos en FrontEnd y har
 - ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
 ## Frameworks:
--![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
--![ASP.NET Logo](https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.svg)
+- ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+- ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
